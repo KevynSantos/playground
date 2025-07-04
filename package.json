@@ -1,6 +1,6 @@
 {
   "type": "module",
   "dependencies": {
-    "totaldocs-login": "file:../totaldocs-login"
+    "totaldocs-login": "git+https://github.com/KevynSantos/totaldocs-login.git"
   }
 }
